@@ -1,5 +1,5 @@
 -  Hi, I’m Kerem Çinar.
--  I’m interested in programming, basketball, piano.
+-  I’m interested in programming, basketball.
 -  I’m 18.
 -  I am currently a freshman at Bilkent University and majoring in computer science. 
 
